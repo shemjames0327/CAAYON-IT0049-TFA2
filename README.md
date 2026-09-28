@@ -10,4 +10,4 @@ This is a CodeIgniter 4 Point of Sale (POS) application that retrieves customer 
 2. Open phpMyAdmin and create a new database named `pos_database`.
 3. Import the provided `.sql` database export file into `pos_database`.
 4. Open the `.env` file and configure the database credentials to match your local setup. Ensure `app.baseURL` points to the correct local directory path.
-5. Launch the application via your browser (e.g., `http://localhost/CaayonTFA2/`).
+5. Launch the application via your browser (e.g., `http://caayontfa2.site.je`).
